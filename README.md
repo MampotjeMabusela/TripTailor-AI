@@ -36,13 +36,21 @@ Deployment: Azure App Service
 bash
 TripTailor-AI/
 ├── itinerary_builder.py       # NLP itinerary generation
+
 ├── pricing_predictor.py       # Predictive pricing model
+
 ├── risk_alerts.py             # Weather & geopolitical risk alerts
+
 ├── booking_api.py             # Booking API integration
+
 ├── crm_integration.py         # MongoDB CRM updates
+
 ├── main.py                    # FastAPI backend
+
 ├── azure_deploy.sh            # Azure deployment script
+
 ├── README.md                  # Project overview
+
 🚀 Getting Started
 Clone the repo:
 
