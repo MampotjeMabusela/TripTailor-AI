@@ -92,4 +92,6 @@ CRM systems enriching customer profiles with AI-generated itineraries
 Booking platforms automating trip recommendations
 
 📬 Contact
-Built
+Built by Mampotje Mabusela — AI specialist and legal tech innovator. For collaboration, consulting, or feedback, connect via GitHub or LinkedIn.
+
+
